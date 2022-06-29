@@ -11,7 +11,7 @@ function getMarks(){
 document.getElementById("percentage").innerHTML = percentage + "%";
 
 if(percentage > 90) {
-    grade = "A+";
+    grade = 'A+';
 } else if(percentage < 90 && percentage > 80) {
     grade ="A";
  } else if (percentage < 80 && percentage> 60) {
