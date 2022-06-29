@@ -1,9 +1,11 @@
 body {
     background-color: darkcyan;
-    padding: 3%;
-color: whitesmoke;
+    color: whitesmoke;
 }
 
+.content {
+    padding: 3%;
+}
 .red{
     background-color: red;
     padding: 4%;
